@@ -1,0 +1,9 @@
+=== 2026-08-28T03:18:21Z ===
+gost-test84
+GPU 0: NVIDIA A100-PCIE-40GB (UUID: GPU-80df02ca-6f77-2ddf-a8ea-16ea67020879)
+GPU 1: NVIDIA A100-PCIE-40GB (UUID: GPU-5f7ff478-bc8c-3ada-c986-142ff557429e)
+lmcache 0.5.4
+vllm 0.28.0
+mdts      : 5
+128
+[none] mq-deadline 

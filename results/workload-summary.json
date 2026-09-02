@@ -1,0 +1,19 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "kv_bytes_per_token": 57344,
+  "l1_size_gb": 100.0,
+  "prefix_tokens": 2048,
+  "flood_docs": 1462,
+  "concurrency": 8,
+  "requests_ok": 3557,
+  "requests_failed": 0,
+  "wall_seconds": 442.8,
+  "series_before": 51,
+  "series_after": 69,
+  "coverage": {
+    "moved": [],
+    "flat": [],
+    "clean_zero": [],
+    "absent": []
+  }
+}
